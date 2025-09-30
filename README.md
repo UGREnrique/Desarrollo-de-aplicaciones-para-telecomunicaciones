@@ -21,7 +21,7 @@ El objetivo es mantener un espacio organizado para versionar el trabajo académi
 
 ## Estructura del repositorio
 ```text
-nombre-del-repo
+Desarrollo-de-aplicaciones-para-telecomunicaciones
  ┣ docs/         → Documentación y apuntes de la asignatura
  ┣ src/          → Código fuente de proyectos y prácticas
  ┣ examples/    → Códigos de ejemplo
