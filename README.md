@@ -19,6 +19,8 @@ El objetivo es mantener un espacio organizado para versionar el trabajo académi
 
 ---
 
+## Estructura del repositorio
+```text
 Desarrollo-de-aplicaciones-para-telecomunicaciones
  ┣ docs/          → Documentación y apuntes de la asignatura
  ┣ examples/      → Códigos de ejemplo
