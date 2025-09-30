@@ -1,7 +1,7 @@
 # Desarrollo de aplicaciones para telecomunicaciones
 
 Máster en Ingeniería de Telecomunicaciones 
-Curso académico 2025 / 2026
+Curso académico 2025 / 2026 (Segundo)
 
 ---
 
