@@ -8,7 +8,7 @@ Curso académico 2025 / 2026
 ## Autor
 Nombre y apellidos: Enrique Alcalá-Zamora Castro
 
-Perfil en GitHub: [https://github.com/tu-usuario](https://github.com/UGREnrique)
+Perfil en GitHub: [https://github.com/UGREnrique](https://github.com/UGREnrique)
 
 ---
 
