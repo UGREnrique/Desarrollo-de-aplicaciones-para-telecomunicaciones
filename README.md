@@ -19,13 +19,17 @@ El objetivo es mantener un espacio organizado para versionar el trabajo académi
 
 ---
 
-## Estructura del repositorio
-```text
 Desarrollo-de-aplicaciones-para-telecomunicaciones
- ┣ docs/         → Documentación y apuntes de la asignatura
- ┣ src/          → Código fuente de proyectos y prácticas
- ┣ examples/    → Códigos de ejemplo
- ┣ test/         → Conjuntos de tests realizados al paquete
- ┣ LICENSE       → Licencia del proyecto
- ┗ README.md     → Información general del repositorio
+ ┣ docs/          → Documentación y apuntes de la asignatura
+ ┣ examples/      → Códigos de ejemplo
+ ┣ src/           → Código fuente de proyectos y prácticas
+ ┣ test/          → Conjuntos de tests realizados al paquete
+ ┣ .gitignore     → Ignorar archivos en Git
+ ┣ LICENSE.txt    → Licencia del proyecto
+ ┣ MANIFEST.in    → Manifest del paquete
+ ┣ README.md      → Información general del repositorio
+ ┣ requirements.txt → Dependencias del proyecto
+ ┣ setup.cfg      → Configuración de setuptools
+ ┗ setup.py       → Script de instalación del paquete
+
 
